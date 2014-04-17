@@ -26,6 +26,7 @@ Node.js module.
   - [Date module](#date_module)
   - [Message module](#message_module)
   - [Number module](#number_module)
+  - [Plural module](#plural_module)
   - more to come...
 - [Development](#development)
   - [File structure](#file_structure)
